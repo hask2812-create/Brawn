@@ -1,0 +1,6 @@
+{
+  "name": "BRAWN SALES",
+  "description": "Professional sales and order management system for BRAWN Pharmaceuticals sales representatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
